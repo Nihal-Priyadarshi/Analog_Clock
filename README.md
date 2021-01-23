@@ -1,7 +1,5 @@
 # Clock
 
-See Live Demo on [https://nihal-priyadarshi.github.io/Analog_Clock/](https://nihal-priyadarshi.github.io/Analog_Clock/)
-
 My Webpage Looks Like This, Go And Explore It.
 
 ![Screenshot](./Webpage_Screenshot.png "Screenshot")
