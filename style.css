@@ -94,7 +94,7 @@ table #clock:hover{
   font-family: sans-serif;
   font-size: 90%;
 }
-ul{
+/* ul{
   position: absolute;
   display: flex;
   z-index: 2;
@@ -140,4 +140,4 @@ ul li a::before{
 }
 ul li a:hover::before{
   transform: skewX(45deg) translateX(-150px);
-}
+} */
